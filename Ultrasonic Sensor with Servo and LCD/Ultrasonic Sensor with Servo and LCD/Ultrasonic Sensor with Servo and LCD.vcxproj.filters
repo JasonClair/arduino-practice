@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="PS2 Joystick.ino" />
+    <None Include="Ultrasonic Sensor with Servo and LCD.ino" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="__vm\.PS2 Joystick.vsarduino.h">
+    <ClInclude Include="__vm\.Ultrasonic Sensor with Servo and LCD.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
